@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  name: SelfHostedPool # 👈 self-hosted agent pool
+  name: quiz4 # 👈 self-hosted agent pool
 
 variables:
   buildConfiguration: 'Release'
